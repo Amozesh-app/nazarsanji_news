@@ -1,7 +1,7 @@
 [
   {
     "توضیحات": "به برنامه Nazarsanji خوش آمدید.",
-    "عکس": "https://s4.uupload.ir/files/app_icon_1mb2.png",
+    "عکس": "https://98share.com/f/mgkz91s4xfej/iclauncher_png.html",
     "تاریخ": "1400/08/20"
   }
 ]
